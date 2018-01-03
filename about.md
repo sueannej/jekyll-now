@@ -1,15 +1,32 @@
 ---
 layout: page
-title: About
+title: I research to design the future.
 permalink: /about/
 ---
 
-Some information about you!
+Designing the future requires more than understanding current users' needs. I **imagine**, **concretize**, **find supporting ideas of**, **design or experiment**, and **convey** it.
 
-### More Information
+[![exp_vr]({{ site.baseurl }}/images/exp_vr.png)](https://sueannej.github.io/exp_vr)
+[![exp_watch]({{ site.baseurl }}/images/exp_watch.png)](https://sueannej.github.io/exp_watch)
+[![exp_speaker]({{ site.baseurl }}/images/exp_speaker.png)](https://sueannej.github.io/exp_speaker)
+[![exp_app]({{ site.baseurl }}/images/exp_app.png)](https://sueannej.github.io/exp_app)
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm good at **constant learning** & **storytelling**.
 
-### Contact me
+## As a constant learner:
+### education
+* currently enrolled in the master's program of cognitive science at Seoul National University.
+  * Issues in Cognitive Science, Methodology in Cognitive Science, Seminar in Experimental Design and Statistical Analysis, Seminar in Application of Cognitive Science, Information Visualization and Visual Analytics, Seminar in Experimental Psychology, Theory and practice of cognitive neurolinguistics, Studies in Computational Linguistics 1, Seminar in German Linguistics, Virtual Reality and Simulation-based Training, Reading and Research
+* graduated in Art & Technology and German Cultural Studies from Sogang University.
 
-[email@domain.com](mailto:email@domain.com)
+### computer skills
+* 
+
+### language skills
+* Korean (native)
+* English ()
+* German ()
+
+## As a storyteller:
+* especially confident in visual expression; worked as a video producer.
+(pics)

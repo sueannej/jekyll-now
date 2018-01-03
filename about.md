@@ -16,7 +16,10 @@ Designing the future requires more than understanding _current_ users' needs. I 
 ## As a constant learner:
 ### education
 * currently enrolled in the master's program of cognitive science at Seoul National University.
-  * Issues in Cognitive Science, Methodology in Cognitive Science, Seminar in Experimental Design and Statistical Analysis, Seminar in Application of Cognitive Science, Information Visualization and Visual Analytics, Seminar in Experimental Psychology, Theory and practice of cognitive neurolinguistics, Studies in Computational Linguistics 1, Seminar in German Linguistics, Virtual Reality and Simulation-based Training, Reading and Research
+  * Issues in Cognitive Science, Methodology in Cognitive Science, Seminar in Experimental Design and Statistical Analysis, Reading and Research
+  * Seminar in Application of Cognitive Science, Studies in Computational Linguistics 1, Seminar in German Linguistics
+  * Seminar in Experimental Psychology, Theory and practice of cognitive neurolinguistics
+  * Information Visualization and Visual Analytics, Virtual Reality and Simulation-based Training
 * graduated in Art & Technology and German Cultural Studies from Sogang University.
 
 ### computer skills

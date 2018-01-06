@@ -5,9 +5,9 @@ permalink: /research/
 
 <div class="posts">
   {% for post in site.posts %}
-    <h1>post.title</h1>
+    <h1>{{ post.title }}</h1>
     {% if post.title == "Mobile app experience design" or "AI speaker experience design" or "VR experience design" or "Smart watch experience design" %}
-      <h1>post.title</h1>
+      <h1>{{ post.title }}</h1>
       <article class="post">
 
         <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>

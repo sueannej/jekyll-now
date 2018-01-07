@@ -15,21 +15,30 @@ Designing the future requires more than understanding _current_ users' needs. I 
 
 ## As a constant learner:
 ### education
-* currently enrolled in the master's program of cognitive science at Seoul National University.
+* MS, Cognitive Science, Seoul National University, Sep 2016 - present
   * Issues in Cognitive Science, Methodology in Cognitive Science, Seminar in Experimental Design and Statistical Analysis, Reading and Research
   * Seminar in Application of Cognitive Science, Studies in Computational Linguistics 1, Seminar in German Linguistics
   * Seminar in Experimental Psychology, Theory and practice of cognitive neurolinguistics
-  * Information Visualization and Visual Analytics, Virtual Reality and Simulation-based Training
-* graduated in Art & Technology and German Cultural Studies from Sogang University.
+  * [Information Visualization and Visual Analytics](https://sueannej.github.io/infoviz), Virtual Reality and Simulation-based Training
+  * If you'd like to know what I'm interested in these days, check out the ['Notes'](https://sueannej.github.io/notes) section.
+* BA&S, Art & Technology, Sogang University, Mar 2012 - Feb 2016, magna cum laude
+  * Double major: BA, German Cultural Studies
+  * If you'd like to know more about my undergraduate projects, click [here]({{ site.baseurl }}/images/undergrad.pdf) (written in Korean).
 
 ### computer skills
-* 
+* graphics
+  * photoshop, illustrator, indesign, premiere_pro, after_effects, etc.
+* prototyping
+  * web(HTML, CSS, js), unity(C#), arduino(C), processing(java)
+* office
+  * word, powerpoint, excel, sway; but mostly google docs
 
 ### language skills
 * Korean (native)
-* English ()
-* German ()
+* English (intermediate; OPIc Advanced Low)
+* German (conversational; TestDaF Niveaustufe 4)
 
 ## As a storyteller:
-* especially confident in visual expression; worked as a video producer.
+* worked as a video producer.
 (pics)
+* confident in visual expression! ;)

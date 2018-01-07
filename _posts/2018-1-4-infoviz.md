@@ -6,8 +6,6 @@ categories: Notes
 tags: d3.js
 ---
 
-<h1>PersonaCard: A Data-driven Approach for Creating User Personas</h1>
-
   **Persona Card** is a new approach that creates the demographic part of personas qualitatively based on reliable data. In this work, we adopted the 2015 Korean Media Panel Survey dataset where respondents recorded their media usage every 15-minute for three days, and implemented the visualization with d3.js. The web-based visualization result shows how the data-driven approach can be aggregated with the conventional qualitative UX approach.
 ![personacard]({{ site.baseurl }}/images/personacard.png)
 

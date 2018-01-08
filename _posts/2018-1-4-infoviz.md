@@ -7,9 +7,10 @@ tags: d3.js
 ---
 
   Persona Card is a new approach to one of the UX methodologies, persona, which automatically creates the demographic part of personas based on reliable data. I used **the 2015 Korean Media Panel Survey dataset** where the respondents recorded their media usage every 15-minute for three days, and visualized it with **d3.js**. The web-based visualization shows how the data-driven approach can be aggregated with the conventional qualitative approach of UX methodologies.
-  <br />
+<br />
+<br />
 ![personacard]({{ site.baseurl }}/images/personacard.png)
-
+<br />
 - **targe user**: UX designers working in the media field
 - **main functions**
   - to help target users to identify different groups of media users

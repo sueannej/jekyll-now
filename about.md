@@ -42,6 +42,6 @@ Designing the future requires more than understanding current users' needs. I *i
 
 ## As a **storyteller**:
 * worked as a video producer. (6 months)
-(pics)
+<br />![culturepd1]({{ site.baseurl }}/images/culturepd1.gif)![culturepd2]({{ site.baseurl }}/images/culturepd2.gif)![culturepd3]({{ site.baseurl }}/images/culturepd3.gif)![culturepd4]({{ site.baseurl }}/images/culturepd4.gif)
 * volunteered to teach a middle school girl video editing skills. (4 months)
 * confident in visual expression! ;)

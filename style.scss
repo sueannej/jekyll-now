@@ -69,10 +69,11 @@ p {
 }
 
 a {
-  text-decoration: wavy underline;
+  color: $blue;
+  text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $darkGray;
   }
 }
 

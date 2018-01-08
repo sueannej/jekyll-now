@@ -6,7 +6,7 @@ permalink: /about/
 
 Designing the future requires more than understanding current users' needs. I *imagine*, *concretize*, *find supporting ideas of*, *design or experiment*, and *convey* it.
 
-{:refdef: style="margin: auto;"}
+{:refdef: style="text-align: center;"}
 [![exp_vr]({{ site.baseurl }}/images/exp_vr.png)](https://sueannej.github.io/exp_vr)
 [![exp_watch]({{ site.baseurl }}/images/exp_watch.png)](https://sueannej.github.io/exp_watch)
 [![exp_speaker]({{ site.baseurl }}/images/exp_speaker.png)](https://sueannej.github.io/exp_speaker)

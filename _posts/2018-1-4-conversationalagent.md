@@ -13,9 +13,7 @@ tags: word
 - *연구 대상*: 구글 어시스턴트, 기가지니, 누구, 빅스비, 시리, 씽큐허브, 카카오아이, 클로바
 - *연구 자료*: 유튜브에서 자료를 선정하여 전사
 - *연구 방법*: 확장 화행 이론을 기반으로 대화 사례 분석 후, 변형된 확장 화행 이론 제시
+- 연구 대상, 연구 자료, 연구 방법 및 연구 과정에 대한 자세한 정보는 아래 pdf 파일에서 확인할 수 있다.
 <br />
 <br />
-![conversationalagent_table3]({{ site.baseurl }}/images/conversationalagent.png)
-<br />
-<br />
-<embed src="{{ site.baseurl }}/images/conversationalagent.pdf" width="100%" height="400" type='application/pdf'>
+<embed src="{{ site.baseurl }}/images/conversationalagent.pdf" width="100%" height="600" type='application/pdf'>

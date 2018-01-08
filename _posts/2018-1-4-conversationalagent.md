@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analyzing Conversational Agents by Conversation Analysis
+title: Analysis of Conversational Agents
 date: 2018-01-04 06:20:00
 tags: word
 ---

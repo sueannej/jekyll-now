@@ -17,7 +17,7 @@ tags: d3.js
   
 - **dataset**
   - [the 2015 Korean Media Panel Survey dataset](http://stat.kisdi.re.kr/Library/Library_Detail4.aspx#) (Accessed: 10-Nov-2016)
-  - consists of 2 parts: (1) demographic information & (2) behavioral information which respondents recorded by themselves every 15-minute for three days
+  - consists of 2 parts: (1) demographic information & (2) behavioral information which respondents recorded by themselves every 15-minute for three days
 
 - **visualization**
   - _Purpose of the primary medium usage_(d15AA1\~d15AA96) _and Purpose of the secondary medium usage_(d15AB1\~d15AB96) include watching live terrestrial TV shows, reading books, playing games, etc. As they are the most interesting information to designers to distinguish different groups of media users, they are the basis for the main visualization, treemap. If a user clicks any cell of the treemap, she or he will see the relevant persona card on the right with the percentage written on it. Although it is another interesting topic to study the interaction of the primary and secondary media usage, it is not considered and those two are simply added.

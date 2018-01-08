@@ -69,8 +69,7 @@ p {
 }
 
 a {
-  color: $gray;
-  text-decoration: none;
+  text-decoration: wavy underline;
 	cursor: pointer;
   &:hover, &:active {
     color: $blue;

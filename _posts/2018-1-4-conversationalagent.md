@@ -5,10 +5,12 @@ date: 2018-01-04 06:20:00
 tags: word
 ---
 
+  \* *Korean only* as the research subjects were limited to conversational agents who speak Korean.
+  If anyone's interested in my approach to analyze conversational agents, refer to [my short poster paper]({{ site.baseurl }}/images/Question%20answering%20as%20a%20Language-game.pdf) or [the methodology book](https://www.degruyter.com/viewbooktoc/product/67153).
+  
   Persona Card is a new approach to one of the UX methodologies, persona, which automatically creates the demographic part of personas based on reliable data. I used *the 2015 Korean Media Panel Survey dataset* where the respondents recorded their media usage every 15-minute for three days, and visualized it with *d3.js*. The web-based visualization shows how the data-driven approach can be aggregated with the conventional qualitative approach of UX methodologies.
 <br />
 <br />
-![personacard]({{ site.baseurl }}/images/personacard.png)
 <br />
 - *targe user*: UX designers working in the media field
 - *main functions*

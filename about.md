@@ -43,9 +43,9 @@ Designing the future requires more than understanding current users' needs. I *i
 ## As a **storyteller**:
 * worked as a video producer. (6 months)
 <br />
-[![culturepd1]({{ site.baseurl }}/images/culturepd1.gif =49%)](https://blog.naver.com/kcis_/30189897789)
-[![culturepd2]({{ site.baseurl }}/images/culturepd2.gif =49%)](https://blog.naver.com/kcis_/220035211071)
-[![culturepd3]({{ site.baseurl }}/images/culturepd3.gif =49%)](https://blog.naver.com/kcis_/220054748507)
-[![culturepd4]({{ site.baseurl }}/images/culturepd4.gif =49%)](https://blog.naver.com/kcis_/220091827342)
+[![culturepd1]({{ site.baseurl }}/images/culturepd1.gif){:width="49%"}](https://blog.naver.com/kcis_/30189897789)
+[![culturepd2]({{ site.baseurl }}/images/culturepd2.gif){:width="49%"}](https://blog.naver.com/kcis_/220035211071)
+[![culturepd3]({{ site.baseurl }}/images/culturepd3.gif){:width="49%"}](https://blog.naver.com/kcis_/220054748507)
+[![culturepd4]({{ site.baseurl }}/images/culturepd4.gif){:width="49%"}](https://blog.naver.com/kcis_/220091827342)
 * volunteered to teach a middle school girl video editing skills. (4 months)
 * confident in visual expression! ;)

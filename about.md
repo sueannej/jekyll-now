@@ -6,12 +6,10 @@ permalink: /about/
 
 Designing the future requires more than understanding _current_ users' needs. I **imagine**, **concretize**, **find supporting ideas of**, **design or experiment**, and **convey** it.
 
-{:refdef: style="text-align: center;"}
-[![exp_vr]({{ site.baseurl }}/images/exp_vr.png)](https://sueannej.github.io/exp_vr)
-[![exp_watch]({{ site.baseurl }}/images/exp_watch.png)](https://sueannej.github.io/exp_watch)
-[![exp_speaker]({{ site.baseurl }}/images/exp_speaker.png)](https://sueannej.github.io/exp_speaker)
+[![exp_vr]({{ site.baseurl }}/images/exp_vr.png)](https://sueannej.github.io/exp_vr)&nbsp;&nbsp;&nbsp;&nbsp;
+[![exp_watch]({{ site.baseurl }}/images/exp_watch.png)](https://sueannej.github.io/exp_watch)&nbsp;&nbsp;&nbsp;&nbsp;
+[![exp_speaker]({{ site.baseurl }}/images/exp_speaker.png)](https://sueannej.github.io/exp_speaker)&nbsp;&nbsp;&nbsp;&nbsp;
 [![exp_app]({{ site.baseurl }}/images/exp_app.png)](https://sueannej.github.io/exp_app)
-{: refdef}
 
 # I'm good at constant learning & storytelling.
 

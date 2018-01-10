@@ -18,10 +18,8 @@ Designing future experience requires more than understanding current users' need
 ## As a **constant learner**:
 ### education
 * MS, Cognitive Science, Seoul National University, Sep 2016 - present
-  * \#cognitive_science \#computational_linguistics \#nltk [\#conversation_analysis](https://sueannej.github.io/conversationalagent)
- \#connectionism \#deep_neural_networks \#electroence
-  phalography \#human_computer_interaction [\#information_visualization](https://sueannej.github.io/infoviz) [\#virtual_reality](https://sueannej.github.io/vrui)
- \#interaction_design
+  * \#cognitive_science \#computational_linguistics \#nltk [\#conversation_analysis](https://sueannej.github.io/conversationalagent)
+ \#connectionism \#deep_neural_networks \#electroencephalography \#human_computer_interaction [\#information_visualization](https://sueannej.github.io/infoviz) [\#virtual_reality](https://sueannej.github.io/vrui) \#interaction_design
 * BA&S, Art & Technology, Sogang University, Mar 2012 - Feb 2016, magna cum laude
   * Double major: BA, German Cultural Studies
   * If you'd like to know more about my undergraduate projects, click [here]({{ site.baseurl }}/images/undergrad.pdf) (written in Korean).
@@ -30,7 +28,7 @@ Designing future experience requires more than understanding current users' need
 * graphics
   * photoshop, illustrator, indesign, premiere pro, after effects, etc.
 * experimenting
- * python, HTML/CSS/js, unity, arduino/processing
+  * python, HTML/CSS/js, unity, arduino/processing
 * office
   * word, powerpoint, excel; but mostly google docs
 

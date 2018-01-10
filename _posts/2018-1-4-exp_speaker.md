@@ -6,4 +6,10 @@ categories: Research
 tags: indesign photoshop
 ---
 
-(clova x)
+- Identifying a problem with existing AI services
+- Finding solutions from a user-centered point of view
+- Assessing & organizing solutions from a technical point of view
+- Creating a scenario & storytelling
+
+✓ A personal case-study; Not relevant to the actual product.
+

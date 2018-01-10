@@ -1,16 +1,16 @@
 ---
 layout: page
-title: I research to design the future.
+title: I research to design future experience.
 permalink: /about/
 ---
 
-Designing the future requires more than understanding current users' needs. I *imagine*, *concretize*, *find supporting ideas of*, *design or experiment*, and *convey* it.
+Designing future experience requires more than understanding current users' needs. I *imagine*, *concretize*, *find supporting ideas of*, *design or experiment*, and *convey* it.
 
 {:refdef: style="text-align: center;"}
-[![exp_vr]({{ site.baseurl }}/images/exp_vr.png)](https://sueannej.github.io/exp_vr)
-[![exp_watch]({{ site.baseurl }}/images/exp_watch.png)](https://sueannej.github.io/exp_watch)
-[![exp_speaker]({{ site.baseurl }}/images/exp_speaker.png)](https://sueannej.github.io/exp_speaker)
-[![exp_app]({{ site.baseurl }}/images/exp_app.png)](https://sueannej.github.io/exp_app)
+[![exp_vr]({{ site.baseurl }}/images/exp_vr.png){:width="24%"}](https://sueannej.github.io/exp_vr)
+[![exp_watch]({{ site.baseurl }}/images/exp_watch.png){:width="24%"}](https://sueannej.github.io/exp_watch)
+[![exp_speaker]({{ site.baseurl }}/images/exp_speaker.png){:width="24%"}](https://sueannej.github.io/exp_speaker)
+[![exp_app]({{ site.baseurl }}/images/exp_app.png){:width="24%"}](https://sueannej.github.io/exp_app)
 {: refdef}
 
 # I'm good at constant learning & storytelling.
@@ -18,11 +18,10 @@ Designing the future requires more than understanding current users' needs. I *i
 ## As a **constant learner**:
 ### education
 * MS, Cognitive Science, Seoul National University, Sep 2016 - present
-  * Issues in Cognitive Science, Methodology in Cognitive Science, Seminar in Experimental Design and Statistical Analysis, Reading and Research
-  * Seminar in Application of Cognitive Science, Studies in Computational Linguistics 1, [Seminar in German Linguistics](https://sueannej.github.io/conversationalagent)
-  * Seminar in Experimental Psychology, Theory and practice of cognitive neurolinguistics
-  * [Information Visualization and Visual Analytics](https://sueannej.github.io/infoviz), [Virtual Reality and Simulation-based Training](https://sueannej.github.io/vrui)
-  * If you'd like to know what I'm interested in these days, check out the ['Notes'](https://sueannej.github.io/notes) section.
+  * \#cognitive_science \#computational_linguistics \#nltk [\#conversation_analysis](https://sueannej.github.io/conversationalagent)
+ \#connectionism \#deep_neural_networks \#electroence
+  phalography \#human_computer_interaction [\#information_visualization](https://sueannej.github.io/infoviz) [\#virtual_reality](https://sueannej.github.io/vrui)
+ \#interaction_design
 * BA&S, Art & Technology, Sogang University, Mar 2012 - Feb 2016, magna cum laude
   * Double major: BA, German Cultural Studies
   * If you'd like to know more about my undergraduate projects, click [here]({{ site.baseurl }}/images/undergrad.pdf) (written in Korean).
@@ -30,8 +29,8 @@ Designing the future requires more than understanding current users' needs. I *i
 ### computer skills
 * graphics
   * photoshop, illustrator, indesign, premiere pro, after effects, etc.
-* prototyping
-  * web(HTML, CSS, js), unity(C#), arduino(C), processing(java)
+* experimenting
+ * python, HTML/CSS/js, unity, arduino/processing
 * office
   * word, powerpoint, excel; but mostly google docs
 

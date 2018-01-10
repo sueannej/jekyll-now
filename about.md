@@ -12,6 +12,7 @@ Designing future experience requires more than understanding current users' need
 [![exp_speaker]({{ site.baseurl }}/images/exp_speaker.png){:width="20%"}](https://sueannej.github.io/exp_speaker)
 [![exp_app]({{ site.baseurl }}/images/exp_app.png){:width="20%"}](https://sueannej.github.io/exp_app)
 {: refdef}
+:exclamation: A full explanation is being prepared.{:style="font-size: 12px;"}
 
 # I'm good at constant learning & storytelling.
 

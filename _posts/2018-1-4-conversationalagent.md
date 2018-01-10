@@ -5,7 +5,7 @@ date: 2018-01-04 06:20:00
 tags: word
 ---
 
-:exclamation: *Korean only* as the research subjects were limited to conversational agents who speak Korean. If anyone's interested in my approach to analyze conversational agents, refer to [my short poster paper]({{ site.baseurl }}/images/Question%20answering%20as%20a%20Language-game.pdf) or [the original methodology book](https://www.degruyter.com/viewbooktoc/product/67153).
+:exclamation: Available in Korean only as the research subjects were limited to conversational agents who speak Korean. If anyone's interested in my approach to analyze conversational agents, refer to [my short poster paper]({{ site.baseurl }}/images/Question%20answering%20as%20a%20Language-game.pdf) or [the original methodology book](https://www.degruyter.com/viewbooktoc/product/67153).
   
   본 연구는 **확장 화행 이론**이라는 화용론적 접근 방식을 사용해 현재 상용되고 있는 **대화 에이전트들의 현 수준을 기술**했다. 이를 통해, 기술적, 표면적 접근이 아니라 실제 사용의 측면에서 접근함으로써 대화 시스템의 발전 방향에도 지향점을 보여줄 수 있기를 기대한다.
 <br />

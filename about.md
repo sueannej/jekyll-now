@@ -7,10 +7,10 @@ permalink: /about/
 Designing future experience requires more than understanding current users' needs. I *imagine*, *concretize*, *find supporting ideas of*, *design or experiment*, and *convey* it.
 
 {:refdef: style="text-align: center;"}
-[![exp_vr]({{ site.baseurl }}/images/exp_vr.png){:width="24%"}](https://sueannej.github.io/exp_vr)
-[![exp_watch]({{ site.baseurl }}/images/exp_watch.png){:width="24%"}](https://sueannej.github.io/exp_watch)
-[![exp_speaker]({{ site.baseurl }}/images/exp_speaker.png){:width="24%"}](https://sueannej.github.io/exp_speaker)
-[![exp_app]({{ site.baseurl }}/images/exp_app.png){:width="24%"}](https://sueannej.github.io/exp_app)
+[![exp_vr]({{ site.baseurl }}/images/exp_vr.png){:width="20%"}](https://sueannej.github.io/exp_vr)
+[![exp_watch]({{ site.baseurl }}/images/exp_watch.png){:width="20%"}](https://sueannej.github.io/exp_watch)
+[![exp_speaker]({{ site.baseurl }}/images/exp_speaker.png){:width="20%"}](https://sueannej.github.io/exp_speaker)
+[![exp_app]({{ site.baseurl }}/images/exp_app.png){:width="20%"}](https://sueannej.github.io/exp_app)
 {: refdef}
 
 # I'm good at constant learning & storytelling.

@@ -14,6 +14,6 @@ categories: Research
 
 ✓ 6-month research @UX Team, LG Electronics
 
-![lg]({{ site.baseurl }}/images/lg.gif){:align="middle"}
+![lg]({{ site.baseurl }}/images/lg.gif){:style="display: block; margin: 0 auto;"}
 
 :exclamation: For confidentiality reasons, more details about the process are to be provided in person.

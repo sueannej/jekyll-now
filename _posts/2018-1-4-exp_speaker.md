@@ -13,3 +13,6 @@ tags: indesign photoshop
 
 ✓ A personal case-study; Not relevant to the actual product.
 
+:exclamation: Available in Korean only
+
+<embed src="{{ site.baseurl }}/images/onetwothree.pdf" width="100%" height="600" type='application/pdf'>

@@ -27,4 +27,4 @@ tags: web
   - _Primary medium type_(d15MA1\~d15MA96) _and Secondary medium type_(d15MB1\~d15MB96) are hardware types such as Home TVs, Smartphones, Basic mobile phones, etc. Though these are not reflected in the treemap, persona cards provide their rankings⑥.
 <br />
 <br />
-* The working example is being prepared.
+:exclamation: The working example is being prepared.
